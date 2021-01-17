@@ -1,0 +1,36 @@
+body{
+  color: white;
+  text-align: center;
+  font-family: 'Montserrat';
+  background: #011627;
+  border:60px solid #2EC4B6;
+border-top: 0px;
+margin:0px;
+text-align: center;
+font-weight: bold;
+}
+h2{
+  margin-bottom: 5%;
+}
+#h{
+  margin-bottom: 10%
+}
+
+.font{
+  margin:auto;
+  margin-top: 80px;
+  width:60%;
+}
+input{
+  margin-bottom: 1%;
+  width:20%;
+  height: 28px;
+  border: .5px solid #F2921D;
+}
+#button{
+  background-color:#F2921D;
+  width: 10%;
+  height: 80px;
+  border-radius: 25px;
+  font-size: 1.2em;
+}
